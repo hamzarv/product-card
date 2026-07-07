@@ -1,6 +1,6 @@
 *,
 *::after
-*::before  {
+*::before {
 box-sizing: border-box;
 }
 
@@ -9,7 +9,6 @@ body {
   font-size: 13px;
   background-image: url("images/background.jpg");
   color: #515076;
-
 }
 
 .products-list {
@@ -31,8 +30,8 @@ body {
   line-height: 78px;
   margin: 0;
   text-align: center;
-  
 }
+
 .product-price {
   margin-top: 25px;
   margin-left: 100px;
