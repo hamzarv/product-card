@@ -4,8 +4,6 @@ padding: 25px;
 width: 100%;
 }
 
-
-
 .card__image {
 display: flex;
 width: 100%
@@ -25,7 +23,7 @@ color: #8c8c8c;
     margin-top: 5px;
     margin-bottom: 15px;
 }
-.card__name {
+.compound__title {
     font-size: 20px;
     margin: 0;
     line-height: 27px;
@@ -38,6 +36,7 @@ color: #8c8c8c;
 .card__description p {
     margin-bottom: 15px;
 }
+
 .card__price {
     display: flex;
     justify-content: space-between;
