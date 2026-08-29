@@ -1,14 +1,14 @@
-.products__list {
+.catalog__list {
 display: flex;
 flex-wrap: wrap;
 justify-content: center;
 gap: 45px;
 }
 
-.products__item {
+.catalog__item {
 width: 340px;
 }
 
-.products__item--big {
+.catalog__item--big {
 width: 400px;
 }
