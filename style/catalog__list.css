@@ -1,0 +1,14 @@
+.catalog__list {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 45px;
+}
+
+.catalog__item {
+width: 340px;
+}
+
+.catalog__item--big {
+width: 400px;
+}
