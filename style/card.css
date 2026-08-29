@@ -44,3 +44,6 @@ color: #8c8c8c;
     padding-top: 20px;
 }
 
+.like-btn {
+transform: translate(220px);
+}
